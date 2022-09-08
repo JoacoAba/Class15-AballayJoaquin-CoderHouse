@@ -99,6 +99,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   DesDelay: 8
+  scriptables: {fileID: 11400000, guid: 5753fca171e17b340b00569ee73e5ea8, type: 2}
   speed: 2
 --- !u!114 &-6899288689090598266
 MonoBehaviour:
